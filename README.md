@@ -9,4 +9,5 @@
 - Frontend Development
 - MERN
 - Tailwind Css
+- Scss
 - GEN-AI
