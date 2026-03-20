@@ -7,3 +7,6 @@
 - React
 - JavaScript
 - Frontend Development
+- MERN
+- Tailwind Css
+- GEN-AI
